@@ -1,5 +1,5 @@
 name: "HA-Fleet Hello"
-version: "1.0.0"
+version: "1.1.0"
 slug: "hafleet_hello"
 description: "Pre-P0 rehearsal spike — validates custom-addon packaging loop for HA-Fleet"
 url: "https://github.com/iwaneo/hafleet-addon-spike"
