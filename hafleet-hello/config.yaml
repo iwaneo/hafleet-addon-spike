@@ -1,0 +1,13 @@
+name: "HA-Fleet Hello"
+version: "1.0.0"
+slug: "hafleet_hello"
+description: "Pre-P0 rehearsal spike — validates custom-addon packaging loop for HA-Fleet"
+url: "https://github.com/iwaneo/hafleet-addon-spike"
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+init: false
+startup: services
